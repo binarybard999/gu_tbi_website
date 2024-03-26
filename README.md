@@ -1,1 +1,1 @@
-# gu_tbi_website
+# GU-TBI.github.io
